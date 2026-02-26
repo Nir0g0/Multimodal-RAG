@@ -1,0 +1,6 @@
+pymupdf4llm
+langchain-upstage
+langchain-google-genai
+langchain-chroma
+langchain-openai
+langchain-text-splitters
