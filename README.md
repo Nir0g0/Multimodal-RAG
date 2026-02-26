@@ -215,16 +215,3 @@ Example questions:
 Type `exit`, `quit`, `q`, or just press Enter on an empty line to terminate.
 
 ---
-
-## Why This Project Is Resume-Worthy
-
-- **Demonstrates real-world RAG**: End-to-end implementation from raw PDFs to production-style vector search and question-answering.
-- **Multimodal reasoning**: Goes beyond simple text RAG by extracting and understanding charts and tables using a vision-capable LLM.
-- **Modern tooling**:
-  - Uses **LangChain**, **LangGraph**, **Chroma**, and **Gemini** APIs together.
-  - Shows familiarity with **document AI** via Upstage.
-- **Clean, single-file entry point** (`main.py`): Easy for reviewers to read and run.
-
-For more background on the original design and concepts, see the reference tutorial:  
-[Multimodal RAG (LangChain Open Tutorial)](https://langchain-opentutorial.gitbook.io/langchain-opentutorial/19-cookbook/06-multimodal/10-geminimultimodalrag).
-
